@@ -92,8 +92,6 @@ Three plots are generated after the simulation:
 
 ## Results and analysis
 
-![Results](models\second_model\Figure_1.png)
-
 ### Graph 1 — Population Over Time
 
 The simulation started with **50 agents** and by step 25 the population had dropped 
